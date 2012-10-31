@@ -1,0 +1,12 @@
+Source: trac-autocompleteusers
+Maintainer: Carlos Alberto Lopez Perez <clopez@igalia.com>
+Section: python
+Priority: optional
+Build-Depends: python-setuptools (>= 0.6b3), python-all (>= 2.6.6-3), debhelper (>= 7)
+Standards-Version: 3.9.1
+
+Package: trac-autocompleteusers
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}, trac
+Description: complete the known trac users, AJAX style
+
