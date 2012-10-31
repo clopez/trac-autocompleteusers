@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: AutocompleteUsers
+Version: 0.4.2-r10974
+Summary: complete the known trac users, AJAX style
+Home-page: http://trac-hacks.org/wiki/AutocompleteUsersPlugin
+Author: Ryan J Ollos
+Author-email: ryano@physiosonics.com
+License: GPL
+Description: UNKNOWN
+Keywords: trac plugin
+Platform: UNKNOWN
